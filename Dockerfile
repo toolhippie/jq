@@ -9,5 +9,5 @@ ENTRYPOINT ["/usr/bin/jq"]
 
 RUN apk update && \
   apk upgrade && \
-  gem install jq && \
+  apk add jq && \
   rm -rf /var/cache/apk/*
