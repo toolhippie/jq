@@ -1,6 +1,6 @@
-# Jq
+# jq
 
-[![Build Status](https://github.dronehippie.de/api/badges/toolhippie/jq/status.svg)](https://github.dronehippie.de/toolhippie/jq)
+[![Build Status](https://cloud.drone.io/api/badges/toolhippie/jq/status.svg)](https://cloud.drone.io/toolhippie/jq)
 [![](https://images.microbadger.com/badges/image/toolhippie/jq:latest.svg)](https://microbadger.com/images/toolhippie/jq:latest "Get your own image badge on microbadger.com")
 
 TBD
