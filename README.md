@@ -1,36 +1,27 @@
 # jq
 
-[![Build Status](https://cloud.drone.io/api/badges/toolhippie/jq/status.svg)](https://cloud.drone.io/toolhippie/jq)
-[![](https://images.microbadger.com/badges/image/toolhippie/jq:latest.svg)](https://microbadger.com/images/toolhippie/jq:latest "Get your own image badge on microbadger.com")
+[![Docker Build](https://github.com/toolhippie/jq/workflows/docker/badge.svg)](https://github.com/toolhippie/jq/actions?query=workflow%3Adocker) [![Docker Size](https://img.shields.io/docker/image-size/toolhippie/jq/latest)](https://hub.docker.com/r/toolhippie/jq) [![Docker Pulls](https://img.shields.io/docker/pulls/toolhippie/jq)](https://hub.docker.com/r/toolhippie/jq) [![GitHub Repo](https://img.shields.io/badge/github-repo-yellowgreen)](https://github.com/toolhippie/jq) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://github.com/stedolan/jq)
 
 **All these images are used for various scriptings, it's possible that any of these tools are updated randomly**
 
-* [GitHub](https://github.com/toolhippie/jq)
-* [Upstream](https://github.com/stedolan/jq)
-
-
 ## Versions
 
-To get an overview about the available versions please take a look at the [GitHub branches](https://github.com/toolhippie/jq/branches/all) or our [Docker Hub tags](https://hub.docker.com/r/toolhippie/jq/tags/), these lists are always up to date.
-
+To get an overview about the available versions please take a look at our [DockerHub tags](https://hub.docker.com/r/toolhippie/jq/tags/) or [Quay.io tags](https://quay.io/repository/toolhippie/jq?tab=tags), these lists are always up to date.
 
 ## Contributing
 
 Fork -> Patch -> Push -> Pull Request
 
-
 ## Authors
 
-* [Thomas Boerger](https://github.com/tboerger)
-
+*  [Thomas Boerger](https://github.com/tboerger)
 
 ## License
 
 MIT
 
-
 ## Copyright
 
-```
+```console
 Copyright (c) 2018 Thomas Boerger <http://www.webhippie.de>
 ```
