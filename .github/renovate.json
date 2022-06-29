@@ -3,8 +3,10 @@
     "extends": [
         "github>webhippie/renovate:docker"
     ],
-    "packageRules": [{
-        "groupName": "jq packages",
-        "matchDatasources": []
-    }]
+    "packageRules": [
+        {
+            "groupName": "jq packages",
+            "matchDatasources": []
+        }
+    ]
 }
