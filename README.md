@@ -1,6 +1,6 @@
 # jq
 
-[![Docker Build](https://github.com/toolhippie/jq/workflows/docker/badge.svg)](https://github.com/toolhippie/jq/actions?query=workflow%3Adocker) [![GitHub Repo](https://img.shields.io/badge/github-repo-yellowgreen)](https://github.com/toolhippie/jq) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://github.com/jq/jq)
+[![Docker Build](https://github.com/toolhippie/jq/workflows/docker/badge.svg)](https://github.com/toolhippie/jq/actions?query=workflow%3Adocker) [![GitHub Repo](https://img.shields.io/badge/github-repo-yellowgreen)](https://github.com/toolhippie/jq) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://github.com/stedolan/jq)
 
 All these images are used for various scriptings, it's possible that any of
 these tools are updated randomly
