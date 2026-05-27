@@ -3,5 +3,5 @@ ENTRYPOINT [""]
 
 RUN apk update && \
   apk upgrade && \
-  apk add jq && \
+  apk add jq file && \
   rm -rf /var/cache/apk/*
